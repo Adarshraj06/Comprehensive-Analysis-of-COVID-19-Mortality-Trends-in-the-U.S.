@@ -2,7 +2,6 @@ Comprehensive Analysis of COVID-19 Mortality Trends in the U.S.
 
 This project analyzes COVID-19 mortality data in the United States using Python and Exploratory Data Analysis (EDA) to uncover demographic, temporal, and regional patterns in pandemic deaths. The analysis compares COVID-19 deaths with pneumonia and influenza, identifies peak mortality periods across states, and studies monthly trends in deaths. 
 
-12314868 Adarsh Raj INT375 CA2 …
 
 🚀 Tools & Technologies
 
@@ -25,7 +24,7 @@ Converted death counts into numeric format
 
 Converted date columns to datetime for time-series analysis 
 
-12314868 Adarsh Raj INT375 CA2 …
+
 
 2. Exploratory Data Analysis (EDA)
 
@@ -111,7 +110,6 @@ README.md	Project documentation
 Hi, I’m Adarsh Raj, a Data Science enthusiast currently working on industry-level analytics projects and building a portfolio focused on data analysis, machine learning, and business intelligence.
 
 📧 Email
-
 🌐 LinkedIn
 
 #Python #EDA #COVID19 #DataAnalysis #DataScience #PortfolioProject
