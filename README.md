@@ -42,7 +42,6 @@ Identified high-risk demographics
 
 Found that elderly populations and males experienced significantly higher mortality rates 
 
-12314868 Adarsh Raj INT375 CA2 …
 
 4. Disease Comparison
 
@@ -80,7 +79,6 @@ Different states experienced peak mortality in different months
 
 The pandemic displayed clear wave patterns, with major peaks during winter periods 
 
-12314868 Adarsh Raj INT375 CA2 …
 
 📸 Visualization Examples
 
@@ -109,7 +107,7 @@ README.md	Project documentation
 
 Hi, I’m Adarsh Raj, a Data Science enthusiast currently working on industry-level analytics projects and building a portfolio focused on data analysis, machine learning, and business intelligence.
 
-📧 Email
-🌐 LinkedIn
+📧 Email : adarshraj7750@gmail.com
+🌐 LinkedIn : http://www.linkedin.com/in/adarshraj06 
 
 #Python #EDA #COVID19 #DataAnalysis #DataScience #PortfolioProject
